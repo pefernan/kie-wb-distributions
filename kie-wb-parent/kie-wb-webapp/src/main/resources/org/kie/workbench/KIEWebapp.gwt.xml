@@ -118,6 +118,8 @@
   <inherits name="org.kie.workbench.common.forms.editor.FormModelerEditorClient"/>
   <inherits name="org.kie.workbench.common.forms.data.modeller.FormDataModellerIntegrationClient"/>
   <inherits name="org.kie.workbench.common.forms.jbpm.FormJBPMIntegrationClient"/>
+  <inherits name="org.kie.workbench.common.forms.cms.components.FormsCMSComponentsClient"/>
+  <inherits name="org.kie.workbench.common.forms.cms.FormsCMSPersistenceApi"/>
 
   <!-- Specify the application specific style sheet. -->
   <stylesheet src='css/kie-wb.css'/>
