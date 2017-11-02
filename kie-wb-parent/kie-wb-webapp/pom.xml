@@ -2095,7 +2095,7 @@
                   <destinationFile>${project.basedir}/src/main/resources/org/kie/workbench/client/resources/i18n/LoginConstants_zh_CN.properties</destinationFile>
                 </fileSet>
                 <fileSet>
-                  <sourceFile>${project.basedir}/src/main/resources/org/kie/workbench/client/resources/i18n/LoginConstants_en_zh_TW.properties</sourceFile>
+                  <sourceFile>${project.basedir}/src/main/resoures/org/kie/workbench/client/resources/i18n/LoginConstants_en_zh_TW.properties</sourceFile>
                   <destinationFile>${project.basedir}/src/main/resources/org/kie/workbench/client/resources/i18n/LoginConstants_zh_TW.properties</destinationFile>
                 </fileSet>
               </fileSets>
