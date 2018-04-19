@@ -1845,7 +1845,7 @@
 
     <dependency>
       <groupId>org.kie.workbench.forms</groupId>
-      <artifactId>kie-wb-common-forms-cms-persistence-in-memory</artifactId>
+      <artifactId>kie-wb-common-forms-cms-persistence-jpa</artifactId>
     </dependency>
     <!-- Stunner and BPMN set. -->
     <dependency>
